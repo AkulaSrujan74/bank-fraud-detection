@@ -1,0 +1,4 @@
+account_id,customer_id,account_type,balance
+A1001,C101,Savings,12000
+A1002,C102,Current,75000
+A1003,C103,Savings,40000

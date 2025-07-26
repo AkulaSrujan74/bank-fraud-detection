@@ -1,0 +1,6 @@
+transaction_id,account_id,amount,transaction_type,transaction_date
+T1001,A1001,5000,Debit,2025-07-20
+T1002,A1002,100000,Debit,2025-07-21
+T1003,A1002,200000,Credit,2025-07-21
+T1004,A1001,3000,Debit,2025-07-21
+T1005,A1003,50000,Debit,2025-07-22
